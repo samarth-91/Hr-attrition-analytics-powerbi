@@ -18,7 +18,7 @@ The **HR Analytics Dashboard** enables HR professionals and decision-makers to:
 - **Attrition Rate:** 16.1%  
 - **Average Age:** 37  
 - **Average Salary:** ₹6.5K  
-- **Average Tenure:** 7.0 years
+- **Average Tenure:** 7.0 year
 
 ## 🔍 Key Insights
 
