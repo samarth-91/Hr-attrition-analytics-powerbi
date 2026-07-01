@@ -1,4 +1,5 @@
-# HR-ANALYTICS-REPORT-WITH-RESPECT-TO-ATTRITION
+# HR Attrition Analytics: Employee Turnover Analysis
+
 This dashboard provided HR teams with a clear view of where attrition was highest—enabling targeted interventions to improve employee retention, refine hiring strategies, and address role-specific or demographic issues.
 # HR Analytics Dashboard 📊
 
